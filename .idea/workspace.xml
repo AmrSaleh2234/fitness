@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c89e667-2ebb-4208-b2e4-aea8b5732574" name="Default Changelist" comment="" />
+    <list default="true" id="0c89e667-2ebb-4208-b2e4-aea8b5732574" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/IndexModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/IndexModel.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +40,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP (1)">
     <include_path>
       <path value="$PROJECT_DIR$" />
@@ -50,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -122,6 +130,7 @@
       <workItem from="1591544399627" duration="18381000" />
       <workItem from="1591629812357" duration="11631000" />
       <workItem from="1591725066057" duration="5653000" />
+      <workItem from="1591753388678" duration="226000" />
     </task>
     <servers />
   </component>
@@ -217,10 +226,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586434243617" />
-    <state x="240" y="280" width="585" height="328" key="com.intellij.ide.util.TipDialog" timestamp="1591725421984">
+    <state x="240" y="280" width="585" height="328" key="com.intellij.ide.util.TipDialog" timestamp="1591753388856">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="240" y="280" width="585" height="328" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1591725421984" />
+    <state x="240" y="280" width="585" height="328" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1591753388856" />
     <state x="476" y="233" width="945" height="955" key="run.anything.popup" timestamp="1591162691536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

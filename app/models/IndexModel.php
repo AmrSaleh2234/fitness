@@ -9,7 +9,7 @@ class IndexModel
     private $database;
     public function __construct()
     {
-        $this->db = Database::getInstance();
+        $this->database = Database::getInstance();
         //var_dump($this->database);
     }
 
